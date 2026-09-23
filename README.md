@@ -21,7 +21,7 @@ A beginner-friendly Node.js Express assignment created to understand Firebase Fi
     │   └── userRouter.js
     ├── schema/
     │   └── userSchema.js
-    ├── .gitignore
+    ├── package.json
     ├── README.md
     └── server.js
 
